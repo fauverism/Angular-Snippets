@@ -1,4 +1,4 @@
-#Angular Snippets
+#Angular Snippets :neckbeard:
 
 Code that's helped me develop in AngularJS
 
